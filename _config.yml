@@ -1,16 +1,16 @@
 # site settings
-title: World site
+title: Соблюдение поста в исламе в месяце Рамадан
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+email: @gmail.com
+description: Согласно Шариату, пост в месяце рамазан – обязанность (фарз).   /> Доказательство этому – Коран и сунна
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
+street_address: 
 city: Nashville
 state: TN
 zip_code: 55555
-country: United States of America
+country: 
 phone: (716) 555-5555
 
 # homepage tiles
